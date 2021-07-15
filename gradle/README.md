@@ -39,5 +39,5 @@ class java.lang.Integer
 class java.lang.String
 ```
 
-> *Note: You can still variable types like byte, short, int, long, etc with Groovy. But you cannot dynamically change the variable type as you have explicitly declared it.*
+> *Note: You can still declare variable types like byte, short, int, long, etc with Groovy. But you cannot dynamically change the variable type as you have explicitly declared it.*
 
