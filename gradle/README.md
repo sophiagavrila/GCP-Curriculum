@@ -29,7 +29,7 @@ println "Hello World."
 ```groovy
 def x = 104
 println x.getClass()
-x = "Guru99"
+x = "Silly String"
 println x.getClass()
 ```
 
